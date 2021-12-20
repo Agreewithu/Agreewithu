@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Agreewithu
-- 👀 I’m interested in python,Java
+- 👀 I’m interested in Python,Java and other technologies
 - 🌱 I’m currently learning biomedical engineering
 - 📫 How to reach me 
 contact me with email 3180101070@zju.edu.cn
